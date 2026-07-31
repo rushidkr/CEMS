@@ -1,0 +1,12 @@
+package com.cems.enums;
+
+public enum NotificationType {
+    EVENT_APPROVED,
+    EVENT_REJECTED,
+    EVENT_CANCELLED,
+    REGISTRATION_CONFIRMED,
+    REGISTRATION_WAITLISTED,
+    EVENT_REMINDER,
+    FEEDBACK_REQUEST,
+    GENERAL
+}
