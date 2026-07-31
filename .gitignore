@@ -1,0 +1,28 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build logs
+*.log
+compile.log
+compile2.log
+compile3.log
+
+# Node & Frontend dependencies/build
+node_modules/
+dist/
+.cache/
+build/
+
+# Maven & Java build target
+target/
+*.class
+*.jar
+*.war
