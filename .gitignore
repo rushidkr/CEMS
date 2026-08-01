@@ -26,3 +26,6 @@ target/
 *.class
 *.jar
 *.war
+
+# Database files
+*.db
