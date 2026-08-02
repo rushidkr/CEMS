@@ -35,10 +35,8 @@ A comprehensive full-stack Web Application designed to streamline university cam
 
 ```text
 CEMS/
-├── cems-backend/
-│   └── backend/          # Spring Boot Backend API Service
-├── cems-frontend/
-│   └── cems_frontend/    # React + Vite + Tailwind CSS SPA
+├── cems-backend/   # Spring Boot Backend API Service
+├── cems-frontend/  # React + Vite + Tailwind CSS SPA
 └── README.md
 ```
 
