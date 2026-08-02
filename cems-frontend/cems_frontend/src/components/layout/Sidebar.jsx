@@ -104,7 +104,7 @@ export default function Sidebar() {
       </nav>
 
       <div className="mt-12 p-4 rounded-2xl bg-gradient-to-br from-indigo-50 to-indigo-100/60 border border-indigo-100 text-left">
-        <div className="text-xs font-bold text-indigo-900 font-display">🎓 CEMS Portal v2.0</div>
+        <div className="text-xs font-bold text-indigo-900 font-display">🎓 CEMS Portal</div>
         <p className="text-[11px] text-indigo-700 mt-1 leading-relaxed">
           Manage campus events, instant seat bookings, and attendee check-ins seamlessly.
         </p>

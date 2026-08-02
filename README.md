@@ -38,7 +38,7 @@ CEMS/
 ├── cems-backend/
 │   └── backend/          # Spring Boot Backend API Service
 ├── cems-frontend/
-│   └── cems_frontend_v2/ # React + Vite + Tailwind CSS SPA
+│   └── cems_frontend/    # React + Vite + Tailwind CSS SPA
 └── README.md
 ```
 
